@@ -3,9 +3,9 @@ Junior [Your Role, e.g., Frontend Developer | Full-Stack Developer | Software En
 
 📍 Based in NJ/NY
 📧 Email: renzootoya@myyahoo.com
-🔗 Portfolio: [Your Portfolio Link] (if available)
+🔗 Portfolio: [Your Portfolio Link] 
 💼 LinkedIn: [Your LinkedIn Profile]
-🐦 Twitter/X: [Your Twitter Handle] (optional)
+🐦 Twitter/X: [Your Twitter Handle] 
 
 🛠️ Tech Stack
 Here are some technologies and tools I work with:
