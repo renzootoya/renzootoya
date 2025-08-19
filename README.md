@@ -5,7 +5,7 @@ Junior Frontend Developer | Full-Stack Developer |
 📧 Email: renzo.aldair.otoya@gmail.com
 🔗 Portfolio: [Your Portfolio Link] 
 💼 LinkedIn: [Your LinkedIn Profile]
-🐦 Twitter/X: [Your Twitter Handle] 
+🐦 X: [(https://x.com/OtoyaMedrano)] 
 
 🛠️ Tech Stack
 Here are some technologies and tools I work with:
