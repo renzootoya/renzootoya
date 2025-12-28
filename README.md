@@ -27,7 +27,7 @@ I'm a motivated frontend developer with a passion for building clean, intuitive,
 
 ### Market Intelligence Dashboard
 A collaborative app for visualizing data.
-- **Live Demo:** 
+- **Live Demo:** https://market-intel-app-5a85.vercel.app/
 - **Code:** github.com/renzootoya/market-intel-app
 
 ### Spots Social Gallery
@@ -37,7 +37,7 @@ A responsive image gallery.
 
 ### Todo App
 Interactive task manager.
-- **Live Demo:** 
+- **Live Demo:** https://se-project-todo-app-iota.vercel.app/
 - **Code:** github.com/renzootoya/se_project_todo-app
 
 ---
