@@ -1,41 +1,92 @@
-Hi there! 👋 I'm Renzo Otoya
-Junior Frontend Developer | Full-Stack Developer | 
+# 👋 Hi, I'm Renzo Otoya  
+**Junior Frontend Developer | UI/UX Enthusiast**
 
-📍 Based in NJ/NY
-📧 Email: renzo.aldair.otoya@gmail.com
-🔗 Portfolio: [Your Portfolio Link] 
-💼 LinkedIn: [Your LinkedIn Profile]
-🐦 X: [(https://x.com/OtoyaMedrano)] 
+📍 **Based in NJ/NY** | 🛠️ **Open to opportunities**  
+📧 **Email:** renzo.aldair.otoya@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/renzo-otoya](https://www.linkedin.com/in/renzo-otoya/)  
+💻 **GitHub:** [github.com/renzootoya](https://github.com/renzootoya)
 
-🛠️ Tech Stack
-Here are some technologies and tools I work with:
+---
 
-Languages: JavaScript.
+## 🚀 About Me
+I'm a motivated frontend developer with a passion for building clean, intuitive, and responsive user interfaces. I'm currently sharpening my skills through an intensive bootcamp, where I transform design concepts into functional web applications. My background in fast-paced, detail-oriented fields has instilled a strong work ethic and a focus on creating reliable, user-centric digital experiences.
 
-Frontend:  HTML/CSS.
+---
 
-Tools & Platforms: Git, GitHub, VS Code.
+## 🛠️ Tech Stack & Tools
 
-Learning: Currently enrolled in bootcamp and working in differneatas projects.
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-🚀 Projects
-Here are some projects I’ve worked on:
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) *(Currently Advancing)*
 
-[se_project_spots] – [This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.].
-🔗 [https://github.com/renzootoya/se_project_spots.git] | 
+**Concepts:** Responsive Design, UI/UX Principles, Agile/Scrum, RESTful APIs
 
-[se_project_coffeeshop ] – [This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.].
-🔗 [https://github.com/renzootoya/se_project_coffeeshop.git] | 
+---
 
-📚 Education & Certifications
+## 📁 Featured Projects
 
-[Software Engineer Program] – [Tripleten] (Currently)
+### ✨ Spotlight Project: Market Intelligence Dashboard
+A collaborative, full-stack application for visualizing complex macroeconomic data with a clean and interactive interface.
+*   **Role:** Frontend Developer & Collaborator
+*   **Tech:** React, TypeScript, RESTful APIs, CSS3
+*   **Key Highlights:** Built reusable React components, focused on clear data presentation and user flow, practiced Agile collaboration and code reviews.
+*   🔗 **Live Demo:** 
+*   📂 **Source Code:** [https://github.com/renzootoya/market-intel-app](https://github.com/renzootoya/market-intel-app)
 
-📈 GitHub Stats (Optional)
-[You can embed GitHub stats using https://github.com/anuraghazra/github-readme-stats]
+### 🌐 Spots - Social Media Gallery
+A responsive, pixel-perfect frontend application designed to showcase images in a clean, modern layout.
+*   **Role:** Frontend Developer & Designer
+*   **Tech:** HTML5, CSS3 (Flexbox & Grid), JavaScript
+*   **Key Highlights:** Engineered a fully responsive gallery from a self-created design concept, with a strong focus on visual hierarchy, consistent spacing, and interactive elements.
+*   🔗 **Live Demo:** [(https://renzootoya.github.io/se_project_spots/)]
+*   📂 **Source Code:** [https://github.com/renzootoya/se_project_spots](https://github.com/renzootoya/se_project_spots)
 
-💬 Let’s Connect!
-I’m always open to collaborations, learning opportunities, or just a friendly chat!
+### 📝 Interactive Todo Application
+A dynamic task management application built to master core JavaScript logic and DOM manipulation.
+*   **Role:** Developer
+*   **Tech:** Vanilla JavaScript, HTML5, CSS3
+*   **Key Highlights:** Implemented features for adding, deleting, and marking tasks complete, with a focus on creating an intuitive, clutter-free user interface.
+*   🔗 **Live Demo:** 
+*   📂 **Source Code:** [https://github.com/renzootoya/se_project_todo-app](https://github.com/renzootoya/se_project_todo-app)
 
-📩 How to reach me: renzo.aldair.otoya@gmail.com| 
+*View more projects on my [GitHub Repositories](https://github.com/renzootoya?tab=repositories).*
 
+---
+
+## 📚 Education & Certifications
+
+| Credential | Institution | Status/Date |
+| :--- | :--- | :--- |
+| **Software Engineering Certificate** | TripleTen Bootcamp | *Expected Completion: 2025* |
+| **Responsive Web Design Certification** | freeCodeCamp | 2024 |
+
+---
+
+## 📈 GitHub Stats
+
+![Renzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renzootoya&show_icons=true&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renzootoya&layout=compact&theme=default)
+
+*Note: These stats update automatically.*
+
+---
+
+## 📬 Let's Connect!
+I'm actively seeking a **Junior Frontend Developer or UI/UX Designer** role where I can contribute, learn, and grow.  
+I'm always open to discussing opportunities, collaborations, or new ideas.
+
+**How to reach me:**
+*   **Email:** [renzo.aldair.otoya@gmail.com](mailto:renzo.aldair.otoya@gmail.com)
+*   **LinkedIn:** [linkedin.com/in/renzo-otoya](https://www.linkedin.com/in/renzo-otoya/)
+*   **Professional Resume:** [View/Download PDF](#) *(Link your Google Drive or hosted resume here)*
+
+---
+*✨ Thanks for visiting my profile! Have a great day. ✨*
